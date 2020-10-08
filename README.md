@@ -12,3 +12,5 @@ https://probinet.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by [Preston Robinette]
+
+### ©️2019 Run Buddy, Inc 
