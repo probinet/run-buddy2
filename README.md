@@ -1,4 +1,4 @@
-# run-buddy2
+# Run Buuddy Inc.
 
 ## Purpose
 A website that offers fitness training services.
@@ -12,3 +12,5 @@ https://probinet.github.io/run-buddy2/
 
 ## Contribution
 Made with ❤️ by [Preston Robinette]
+
+### ©️2019 Run Buddy, Inc 
